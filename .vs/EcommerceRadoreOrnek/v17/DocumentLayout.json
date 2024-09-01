@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abdullah\\Desktop\\desk\\radorefinaproject\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3E3E12F-A5F1-4BBC-8E1A-7D3B4DC1E309}|Radore.Services.ProductAPI\\Radore.Services.ProductAPI.csproj|c:\\users\\abdullah\\desktop\\desk\\radorefinaproject\\backend\\radore.services.productapi\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3E3E12F-A5F1-4BBC-8E1A-7D3B4DC1E309}|Radore.Services.ProductAPI\\Radore.Services.ProductAPI.csproj|solutionrelative:radore.services.productapi\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3E3E12F-A5F1-4BBC-8E1A-7D3B4DC1E309}|Radore.Services.ProductAPI\\Radore.Services.ProductAPI.csproj|c:\\users\\abdullah\\desktop\\desk\\radorefinaproject\\backend\\radore.services.productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3E3E12F-A5F1-4BBC-8E1A-7D3B4DC1E309}|Radore.Services.ProductAPI\\Radore.Services.ProductAPI.csproj|solutionrelative:radore.services.productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abdullah\\Desktop\\desk\\radorefinaproject\\backend\\Radore.Services.ProductAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Radore.Services.ProductAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\abdullah\\Desktop\\desk\\radorefinaproject\\backend\\Radore.Services.ProductAPI\\Program.cs",
+              "RelativeToolTip": "Radore.Services.ProductAPI\\Program.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAwwGQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T07:00:42.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\abdullah\\Desktop\\desk\\radorefinaproject\\backend\\Radore.Services.ProductAPI\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "Radore.Services.ProductAPI\\Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\abdullah\\Desktop\\desk\\radorefinaproject\\backend\\Radore.Services.ProductAPI\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "Radore.Services.ProductAPI\\Hubs\\ChatHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T06:59:39.897Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
